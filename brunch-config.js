@@ -1,4 +1,4 @@
-exports.config = {
+module.exports = {
   // See http://brunch.io/#documentation for docs.
   files: {
     javascripts: {

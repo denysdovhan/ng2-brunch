@@ -44,15 +44,14 @@
     "zone.js": "^0.7.4"
   },
   "devDependencies": {
-    "auto-reload-brunch": "2.7.1",
-    "brunch": "2.6.0 - 2.8.0 || >2.8.1",
-    "brunch-typescript": "2.1.0",
-    "clean-css-brunch": "^2.0.0",
+    "auto-reload-brunch": "^2",
+    "brunch": "^2",
+    "brunch-typescript": "^2",
+    "clean-css-brunch": "^2",
     "codelyzer": "2.0.0-beta.4",
-    "inline-css-brunch": "^2.0.0",
-    "javascript-brunch": "^2.0.0",
+    "inline-css-brunch": "^2",
     "tslint": "^4.4.2",
     "typescript": "^2.1.5",
-    "uglify-js-brunch": "^2.0.1"
+    "uglify-js-brunch": "^2"
   }
 }
